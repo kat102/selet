@@ -16,7 +16,7 @@ public class Main {
        long newLong = 990;
        //тип переменной  "а не врешь ли ты мне?"
        boolean newBooLean = true;
-       boolean isPrime = 7 % 2  == 0;//== = равняется ли
+       boolean isPrime = 7 % 2 == 0;//== = равняется ли
        boolean isntPrime = 7 % 2 != 0;//!= = не равняется ли
 
         //логический блок

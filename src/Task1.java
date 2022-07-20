@@ -3,7 +3,7 @@ import jdk.swing.interop.SwingInterOpUtils;
 import javax.net.ssl.SNIServerName;
 import java.util.Scanner;
 
-public class Task0 {
+public class Task1 {
     public static void main(String[] args) {
         Scanner scanner1 = new Scanner(System.in);
         System.out.println("Write random number");
@@ -38,22 +38,12 @@ public class Task0 {
     }
     public static void ain(String[] args) {
         Scanner scanner1 = new Scanner(System.in);
-        System.out.println("write random number");
-        int b = scanner1.nextInt();
-        if (b == 1)  {
-            System.out.println("!");
-        }else if (b == 2) {
-            System.out.println("@");
-        }else if (b == 3) {
-            System.out.println("#");
-        }else if (b == 4) {
-            System.out.println("$");
-        }else if (b == 5) {
-            System.out.println("%");
-        }else if (b)
+        System.out.println("write time");
+
+        }
     }
 
-}
+
 
 
 

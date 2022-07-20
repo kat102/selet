@@ -32,6 +32,7 @@ public class Task2 {
             System.out.println("vechernee meropriyatiye");
         }else if (a == 23.00) {
             System.out.println("otboy");
+
         }
     }
 }

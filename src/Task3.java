@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task3 {
+public class  Task3 {
     public static void main(String[] args) {
         Scanner scanner1 = new Scanner(System.in);
         System.out.println("write the number of the rows");

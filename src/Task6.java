@@ -6,11 +6,11 @@ public class Task6 {
         System.out.println("write the number of the rows");
         int a = scanner1.nextInt();
         for (int i = 0; i < a ; i++) {
-            for (int j = 0; j < i ; j++) {
+            for (int j = 0; j < i ; j++) { // j  i текущая строчка , а всего строчек
                 System.out.print(" ");
             }
-            for (int e = a; e > i ; e--) {
-                System.out.print("* ");
+            for (int e = a; e > i ; e--) { // е пробел
+                System.out.print("*");
             }
             System.out.println();
         }

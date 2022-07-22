@@ -5,9 +5,8 @@ public class Task5 {
         Scanner scanner1 = new Scanner(System.in);
         System.out.println("write the number of the rows");
         int a = scanner1.nextInt();
-        for (int i = 0; i < a; i++) {
+        for (int i = 0; i < a; i++) { // i текущая строчка , а всего строчек
             for (int j = 0; j < a ; j++) {
-                
             }
             System.out.println("*");
         }
